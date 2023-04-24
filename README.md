@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Zaryab Khalid
-## 💻 MERN STACK Developer <br>
+## 💻 Frontend Developer <br>
 
 💬 Ask me about<br>
 You can Contact me on 📨 zaryabkhalid43@gmail.com
