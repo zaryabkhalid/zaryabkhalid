@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">👋 Hi, I'm Zaryab Khalid</h1>
+<h4 color="yellow">👋 Hi, I'm Zaryab Khalid</h4>
 
 ###
 
