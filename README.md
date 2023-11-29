@@ -4,16 +4,14 @@
 
 ###
 
-<h4 color="yellow">👋 Hi, I'm Zaryab Khalid</h4>
+<h2 style="color:yellow">👋 Hi, I'm Zaryab Khalid</h2>
 <hr/>
-<p color='yellow'>Javascript Developer</p>
-<hr/>
-
+<h4 color='yellow'>Javascript Developer</h4>
 <p> 🌍 I'm based in Gujrat, Pakistan</p>
 <p> ✉️ You can contact me at [zaryabkhalid43@gmail.com](mailto:zaryabkhalid43@gmail.com)</p>
 <p> 🚀  I'm currently working on [rehmansolutions.nl](https://rehmansolutions.nl)</p>
 <p> 🤝  I'm open to collaborating on interesting JavaScript projects</p>
-<p> * ⚡  I moonlight as a super hero </p>
+<p> ⚡  I moonlight as a super hero </p>
 
 
 ###
@@ -21,8 +19,6 @@
 <div align="center">  
 <img height="120" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif"/>
 </div>
-
-<h2 align="center">🖥 Salesforce || Javascript Developer</h2>
 
 ###
 
