@@ -5,6 +5,16 @@
 ###
 
 <h4 color="yellow">👋 Hi, I'm Zaryab Khalid</h4>
+<hr/>
+<p color='yellow'>Javascript Developer</p>
+<hr/>
+
+<p> 🌍 I'm based in Gujrat, Pakistan</p>
+<p> ✉️ You can contact me at [zaryabkhalid43@gmail.com](mailto:zaryabkhalid43@gmail.com)</p>
+<p> 🚀  I'm currently working on [rehmansolutions.nl](https://rehmansolutions.nl)</p>
+<p> 🤝  I'm open to collaborating on interesting JavaScript projects</p>
+<p> * ⚡  I moonlight as a super hero </p>
+
 
 ###
 
