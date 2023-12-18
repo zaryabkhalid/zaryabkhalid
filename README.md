@@ -4,7 +4,7 @@
 <h4>💻 Javascript Developer</h4>
 <p> 🌍 I'm based in Gujrat, Pakistan</p>
 <p> ✉️ You can contact me at [zaryabkhalid43@gmail.com](mailto: zaryabkhalid43@gmail.com)</p>
-<p> 🚀  I'm currently working on [rehmansolutions.nl](https://rehmansolutions.nl)</p>
+<span> 🚀  I'm currently working on </span> [rehmansolutions](https://rehmansolutions.nl)
 <p> 🤝  I'm open to collaborating on interesting JavaScript projects</p>
 <p> ⚡  I moonlight as a super hero </p>
 <hr/>
