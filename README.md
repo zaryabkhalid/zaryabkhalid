@@ -3,8 +3,8 @@
 <hr/>
 <h4>💻 Javascript Developer</h4>
 <p> 🌍 I'm based in Gujrat, Pakistan</p>
-<p> ✉️ You can contact me at [zaryabkhalid43@gmail.com](mailto: zaryabkhalid43@gmail.com)</p>
-<span> 🚀  I'm currently working on </span> [rehmansolutions](https://rehmansolutions.nl)
+<p> ✉️ You can contact me at: <strong> MAIL TO: zaryabkhalid43@gmail.com</strong>]
+<p> 🚀  I'm currently working on:</p> [rehmansolutions](https://rehmansolutions.nl)
 <p> 🤝  I'm open to collaborating on interesting JavaScript projects</p>
 <p> ⚡  I moonlight as a super hero </p>
 <hr/>
