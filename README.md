@@ -1,7 +1,7 @@
-<h2>Hi 👋 My name is Zaryab Khalid</h2>
+<h2>Hi 👋 I'm Zaryab Khalid</h2>
 
 <hr/>
-<h4>💻 Javascript Developer</h4>
+<h4>💻Salesforce && Javascript Developer</h4>
 <p> 🌍 I'm based in Gujrat, Pakistan</p>
 <p> ✉️ You can contact me at: <strong> MAIL TO:</strong> <a href="mailto:zaryabkhalid43@gmail.com">zaryabkhalid43@gmail.com</a></p>
 <p> 🚀  I'm currently working on: <a href="https://rehmansolutions.nl">rehmansolutions</a></p>
