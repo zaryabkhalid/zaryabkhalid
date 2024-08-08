@@ -9,12 +9,12 @@
 <p> ⚡  I wanna thank me for keep believing in me.</p>
 <hr/>
 
-<div>
-  <h2>Learning & Exploring </h2>
+
+  ## Learning & Exploring
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-</div>
+  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 <h4>Social Media Contacts</h4>
 <div>
