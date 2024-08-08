@@ -25,27 +25,22 @@
 
   <a href="https://discord.com/zaryab2490" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="30" alt="discord logo"  />
-    <img width="24" />
   </a>
  
   <a href="zaryabkhalid43@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="30" alt="gmail logo"  />
-    <img width="24" />
   </a>
 
   <a href="https://instagram.com/zaryabkhalid" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="30" alt="instagram logo"  />
-    <img width="24" />
   </a>
 
   <a href="https://slack.com/zaryabkhalid" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" height="30" alt="slack logo"  />
-    <img width="24" />
   </a>
 
   <a href="https://linktr.ee/zaryabkhalid605" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" height="30" alt="linktree logo"  />
-    <img width="24" />
   </a>
 </div>
 
