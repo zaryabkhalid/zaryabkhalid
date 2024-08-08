@@ -21,10 +21,7 @@
 
   <a href="https://www.linkedin.com/in/zaryabkhalid/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" alt="linkedin logo"  />
-    <img width="24" />
   </a>
-  
-  ![LinkedIn](https://www.linkedin.com/in/zaryabkhalid/)
 
   <a href="https://discord.com/zaryab2490" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="30" alt="discord logo"  />
