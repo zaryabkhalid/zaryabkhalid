@@ -6,7 +6,7 @@
 <p> ✉️ You can contact me at: <strong> MAIL TO:</strong> <a href="mailto:zaryabkhalid43@gmail.com">zaryabkhalid43@gmail.com</a></p>
 <p> 🚀  I'm currently working on: <a href="https://rehmansolutions.nl">Volkteq</a></p>
 <p> 🤝  I'm open to collaborating on interesting JavaScript projects</p>
-<p> ⚡  I moonlight as a super hero </p>
+<p> ⚡  I wanna thank me for keep believing in me.</p>
 <hr/>
 
 <h4>Social Media Contacts</h4>
