@@ -10,14 +10,15 @@
 
 
   <p align="center">
-  ## Learning & Exploring
+  <h2> Learning & Exploring </h2> 
   
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   
   </p>
-## Social Media Contacts
+  
+<h2> Social Media Contacts </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/zaryabkhalid/" target="_blank" style="margin-right:4px"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.com/zaryab2490" target="_blank" style="margin-right:4px"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
