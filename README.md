@@ -6,7 +6,7 @@
 <p> ✉️ You can contact me at: <strong> MAIL TO:</strong> <a href="mailto:zaryabkhalid43@gmail.com">zaryabkhalid43@gmail.com</a></p>
 <p> 🚀  I'm currently working on: <a href="https://rehmansolutions.nl">Volkteq</a></p>
 <p> 🤝  I'm open to collaborating on interesting JavaScript projects</p>
-<p> ⚡  I wanna thank me for keep believing in me.</p>
+<p> ⚡  I wanna Thank me for believing in me.</p>
 <hr/>
 
 
@@ -23,6 +23,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" alt="linkedin logo"  />
     <img width="24" />
   </a>
+  
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/zaryabkhalid/)
 
   <a href="https://discord.com/zaryab2490" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="30" alt="discord logo"  />
