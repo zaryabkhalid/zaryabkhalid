@@ -24,7 +24,7 @@
     <img width="24" />
   </a>
   
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/zaryabkhalid/)
+  ![LinkedIn](https://www.linkedin.com/in/zaryabkhalid/)
 
   <a href="https://discord.com/zaryab2490" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="30" alt="discord logo"  />
