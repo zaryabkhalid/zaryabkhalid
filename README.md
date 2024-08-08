@@ -1,6 +1,5 @@
 <h2>Hi 👋 I'm Zaryab Khalid</h2>
 
-<hr/>
 <h4>💻Salesforce && Javascript Developer</h4>
 <p> 🌍 I'm based in Gujrat, Pakistan</p>
 <p> ✉️ You can contact me at: <strong> MAIL TO:</strong> <a href="mailto:zaryabkhalid43@gmail.com">zaryabkhalid43@gmail.com</a></p>
@@ -10,12 +9,14 @@
 <hr/>
 
 
+  <p align="center">
   ## Learning & Exploring
   
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+  
+  </p>
 ## Social Media Contacts
 <p align="center">
   <a href="https://www.linkedin.com/in/zaryabkhalid/" target="_blank" style="margin-right:4px"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
