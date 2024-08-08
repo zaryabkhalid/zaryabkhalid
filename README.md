@@ -16,9 +16,9 @@
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-<h4>Social Media Contacts</h4>
-<div>
+## Social Media Contacts
 
+<div>
   <a href="https://www.linkedin.com/in/zaryabkhalid/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" alt="linkedin logo"  />
   </a>
