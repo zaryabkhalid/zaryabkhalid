@@ -19,9 +19,7 @@
 ## Social Media Contacts
 
 <div>
-  <a href="https://www.linkedin.com/in/zaryabkhalid/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" alt="linkedin logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/zaryabkhalid/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
   <a href="https://discord.com/zaryab2490" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="30" alt="discord logo"  />
