@@ -17,26 +17,18 @@
 </p>
 
 
-## Currently Working On
-
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zaryabkhalid.zaryabkhalid&left_color=olivedrab&right_color=darkgrey&left_text=Who%20visited%20your%20profile%20%20"  />
 </div>
 
  
 
-
+## Things I Code With
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,git,github,githubactions,docker,vim,babel,bash,bootstrap,bun,html,css,js,ts,tailwind,nodejs,express,react,nextjs,mongodb,postgres,redis,redux,supabase,firebase,appwrite,postman,vscode,webpack,vite&perline=12" />
   </a>
 </p>
-
-
-
-<div>
-   <img height="300" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
-</div>
 
 ###
 
