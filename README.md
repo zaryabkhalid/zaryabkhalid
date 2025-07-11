@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,git,github,githubactions,docker,vim,babel,bash,bootstrap,bun,html,css,js,ts,tailwind,nodejs,express,react,nextjs,mongodb,postgres,redis,redux,supabase,firebase,appwrite,postman,vscode,webpack,vite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,git,github,githubactions,docker,vim,babel,bash,bootstrap,bun,html,css,js,ts,tailwind,nodejs,express,react,nextjs,mongodb,postgres,redis,redux,supabase,firebase,appwrite,postman,vscode,webpack,vite&perline=12" />
   </a>
 </p>
 
