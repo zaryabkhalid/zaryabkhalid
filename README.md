@@ -17,7 +17,7 @@
 </p>
 
 
-<div align="right">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zaryabkhalid.zaryabkhalid&left_color=olivedrab&right_color=darkgrey&left_text=Who%20visited%20your%20profile%20%20"  />
 </div>
 
